@@ -7,7 +7,7 @@
     `pip3 install numpy scipy pandas scikit-learn pyro-ppl matplotlib`
 
 ## Prepare matrix and label files
-1. scClassifier2 accepts as input the gene expression matrix in the MatrixMarket format usually end in ".mtx", where rows are cells and columns are genes. 
+1. scClassifier2 accepts as input the log-transformed gene matrix in the MatrixMarket format usually end in ".mtx", where rows are cells and columns are genes. 
 2. The label file can be either the CSV format or the TSV format, one label per line.
 3. [Data](https://github.com/ZengFLab/scClassifier2/tree/main/data) gives some examples of matrix and label files.
 
