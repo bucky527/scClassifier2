@@ -12,7 +12,7 @@
 3. [Data](https://github.com/ZengFLab/scClassifier2/tree/main/data) gives some examples of matrix and label files.
 
 ## Tutorial
-Please refer to the [PBMC68k] (https://github.com/ZengFLab/scClassifier2/blob/main/pbmc68k_demo.ipynb) example.
+Please refer to the [PBMC68k](https://github.com/ZengFLab/scClassifier2/blob/main/pbmc68k_demo.ipynb) example.
 
 ## Usage
 ```
