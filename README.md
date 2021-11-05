@@ -1,6 +1,9 @@
 # scClassifier2
  Deep bag-of-genes model for single cell classification
 
+## Citation
+Bin Zhou, Fan Yang, Ting Chen, Feng Zeng. Seeing cells as bags-of-genes: a simple deep generative model for platform-independent single cell classification. Submitted. 2021
+
 ## Installation
 1. Install [pytorch](https://pytorch.org/get-started/locally/) according to your computational platform
 2. Install dependencies:
